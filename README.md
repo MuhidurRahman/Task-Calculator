@@ -1,6 +1,7 @@
 # 💸 Earnings Calculator
 
 An **interactive, modern earnings calculator** that helps you track your income, share splits, and savings with real-time calculations and beautiful visualizations. Built with **HTML, TailwindCSS, and Chart.js**.
+[live](https://muhidurrahman.github.io/Task-Calculator/)
 
 ---
 
